@@ -7,6 +7,8 @@ The dataset contains the vehicle trajectory data perceived by the roadside perce
 + Msight roadside perception system is used to extract the vehicle trajectories from raw video frames.
 
 ## Citation
+
+TODO: Add paper link
 ```
 @article{zhang2022design,
     author = {Rusheng Zhang and Zhengxia Zou and Shengyin Shen and Henry X. Liu},
@@ -87,3 +89,5 @@ Each json file contains the vehicle trajectory data of one frame. Here is an exa
 ## License
 
 ## Acknowledgment
+
+TODO: thank Mcity and NSF
