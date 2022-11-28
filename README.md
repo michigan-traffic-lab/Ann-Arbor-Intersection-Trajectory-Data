@@ -7,28 +7,36 @@ The dataset contains the vehicle trajectory data perceived by the roadside perce
 + Msight roadside perception system is used to extract the vehicle trajectories from raw video frames.
 
 ## Citation
+>  <a href="https://drive.google.com/file/d/1lNYbGUzCMqt1zLPuyrfwM0NuiCS9hfpf/view" target="_blank">Design, Implementation, and Evaluation of a Roadside Cooperative Perception System</a><br />
+> [Design, Implementation, and Evaluation of a Roadside Cooperative Perception System](https://drive.google.com/file/d/1lNYbGUzCMqt1zLPuyrfwM0NuiCS9hfpf/view)<br />
+> Rusheng Zhang, Zhengxia Zou, Shengyin Shen, and Henry X. Liu<br />
+> *Transportation Research Record, 2022*
+> ```
+> @article{zhang2022design,
+>     author = {Rusheng Zhang and Zhengxia Zou and Shengyin Shen and Henry X. Liu},
+>     title ={Design, Implementation, and Evaluation of a Roadside Cooperative Perception System},
+>     journal = {Transportation Research Record},
+>     volume = {2676},
+>     number = {11},
+>     pages = {273-284},
+>     year = {2022},
+>     doi = {10.1177/03611981221092402},
+> }
+> ```
 
-TODO: Add paper link
-```
-@article{zhang2022design,
-    author = {Rusheng Zhang and Zhengxia Zou and Shengyin Shen and Henry X. Liu},
-    title ={Design, Implementation, and Evaluation of a Roadside Cooperative Perception System},
-    journal = {Transportation Research Record},
-    volume = {2676},
-    number = {11},
-    pages = {273-284},
-    year = {2022},
-    doi = {10.1177/03611981221092402},
-}
-@inproceedings{zou2022real,
-  title={Real-time full-stack traffic scene perception for autonomous driving with roadside cameras},
-  author={Zou, Zhengxia and Zhang, Rusheng and Shen, Shengyin and Pandey, Gaurav and Chakravarty, Punarjay and Parchami, Armin and Liu, Henry X},
-  booktitle={2022 International Conference on Robotics and Automation (ICRA)},
-  pages={890--896},
-  year={2022},
-  organization={IEEE}
-}
-```
+> Real-time full-stack traffic scene perception for autonomous driving with roadside cameras [[PDF]](https://drive.google.com/file/d/1PNY7u606XHUJIs7t1GYU59yzGXQ5PBi_/view?usp=sharing)<br />
+> Zhengxia Zou, Rusheng Zhang, Shengyin Shen, Gaurav Pandey, Punarjay Chakravarty, Armin Parchami, and Henry X. Liu<br />
+> *International Conference on Robotics and Automation, 2022*
+> ```
+> @inproceedings{zou2022real,
+>   title={Real-time full-stack traffic scene perception for autonomous driving with roadside cameras},
+>   author={Zou, Zhengxia and Zhang, Rusheng and Shen, Shengyin and Pandey, Gaurav and Chakravarty, Punarjay and Parchami, Armin and Liu, Henry X},
+>   booktitle={2022 International Conference on Robotics and Automation (ICRA)},
+>   pages={890--896},
+>   year={2022},
+>   organization={IEEE}
+> }
+> ```
 ## Data format
 The dataset is formatted into multiple zip files. Each zip file contains the vehicle trajectory data within one day.
 ```
