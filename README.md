@@ -7,7 +7,6 @@ The dataset contains the vehicle trajectory data perceived by the roadside perce
 + Msight roadside perception system is used to extract the vehicle trajectories from raw video frames.
 
 ## Citation
->  <a href="https://drive.google.com/file/d/1lNYbGUzCMqt1zLPuyrfwM0NuiCS9hfpf/view" target="_blank">Design, Implementation, and Evaluation of a Roadside Cooperative Perception System</a><br />
 > [Design, Implementation, and Evaluation of a Roadside Cooperative Perception System](https://drive.google.com/file/d/1lNYbGUzCMqt1zLPuyrfwM0NuiCS9hfpf/view)<br />
 > Rusheng Zhang, Zhengxia Zou, Shengyin Shen, and Henry X. Liu<br />
 > *Transportation Research Record, 2022*
@@ -24,7 +23,7 @@ The dataset contains the vehicle trajectory data perceived by the roadside perce
 > }
 > ```
 
-> Real-time full-stack traffic scene perception for autonomous driving with roadside cameras [[PDF]](https://drive.google.com/file/d/1PNY7u606XHUJIs7t1GYU59yzGXQ5PBi_/view?usp=sharing)<br />
+> [Real-time full-stack traffic scene perception for autonomous driving with roadside cameras](https://drive.google.com/file/d/1PNY7u606XHUJIs7t1GYU59yzGXQ5PBi_/view?usp=sharing)<br />
 > Zhengxia Zou, Rusheng Zhang, Shengyin Shen, Gaurav Pandey, Punarjay Chakravarty, Armin Parchami, and Henry X. Liu<br />
 > *International Conference on Robotics and Automation, 2022*
 > ```
@@ -98,4 +97,4 @@ Each json file contains the vehicle trajectory data of one frame. Here is an exa
 
 ## Acknowledgment
 
-TODO: thank Mcity and NSF
+The dataset is supported by [Mcity](https://mcity.umich.edu/) and [National Science Foundation](https://www.nsf.gov/).
