@@ -82,7 +82,7 @@ Each json file contains the vehicle trajectory data of one frame. Here is an exa
 ```
 
 ## Download
-[Download link](http://d1o8lrsx0n5wxu.cloudfront.net/roundaboutdata/2022-09.zip)
+[Download link](https://d1o8lrsx0n5wxu.cloudfront.net/roundaboutdata/2022-09.zip)
 
 ## Terms of use
 
