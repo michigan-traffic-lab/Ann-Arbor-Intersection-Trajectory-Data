@@ -89,7 +89,7 @@ Each json file contains the vehicle trajectory data of one frame. Here is an exa
 ```
 
 ## Download
-[Download link]()
+[2022-09-01.zip](https://github.com/michigan-traffic-lab/RBTrajectoryDataReadme/releases/download/v0.1-prerelease/2022-09-01.zip)
 
 ## Terms of use
 
