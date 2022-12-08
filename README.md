@@ -107,6 +107,11 @@ Each json file contains the vehicle trajectory data of one frame. Here is an exa
 [2022-09-16.zip](https://github.com/michigan-traffic-lab/RBTrajectoryDataReadme/releases/download/v0.1-prerelease/2022-09-16.zip)<br />
 [2022-09-17.zip](https://github.com/michigan-traffic-lab/RBTrajectoryDataReadme/releases/download/v0.1-prerelease/2022-09-17.zip)<br />
 [2022-09-18.zip](https://github.com/michigan-traffic-lab/RBTrajectoryDataReadme/releases/download/v0.1-prerelease/2022-09-18.zip)<br />
+[2022-09-19.zip](https://github.com/michigan-traffic-lab/RBTrajectoryDataReadme/releases/download/v0.1-prerelease/2022-09-19.zip)<br />
+[2022-09-20.zip](https://github.com/michigan-traffic-lab/RBTrajectoryDataReadme/releases/download/v0.1-prerelease/2022-09-20.zip)<br />
+[2022-09-21.zip](https://github.com/michigan-traffic-lab/RBTrajectoryDataReadme/releases/download/v0.1-prerelease/2022-09-21.zip)<br />
+[2022-09-27.zip](https://github.com/michigan-traffic-lab/RBTrajectoryDataReadme/releases/download/v0.1-prerelease/2022-09-27.zip)<br />
+[2022-09-28.zip](https://github.com/michigan-traffic-lab/RBTrajectoryDataReadme/releases/download/v0.1-prerelease/2022-09-28.zip)<br />
 
 ## Terms of use
 
