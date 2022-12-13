@@ -89,31 +89,31 @@ Each json file contains the vehicle trajectory data of one frame. Here is an exa
 ```
 
 ## Download
-[2022-09-01.zip](https://github.com/michigan-traffic-lab/RBTrajectoryDataReadme/releases/download/v0.1-prerelease/2022-09-01.zip)<br />
-[2022-09-02.zip](https://github.com/michigan-traffic-lab/RBTrajectoryDataReadme/releases/download/v0.1-prerelease/2022-09-02.zip)<br />
-[2022-09-03.zip](https://github.com/michigan-traffic-lab/RBTrajectoryDataReadme/releases/download/v0.1-prerelease/2022-09-03.zip)<br />
-[2022-09-04.zip](https://github.com/michigan-traffic-lab/RBTrajectoryDataReadme/releases/download/v0.1-prerelease/2022-09-04.zip)<br />
-[2022-09-05.zip](https://github.com/michigan-traffic-lab/RBTrajectoryDataReadme/releases/download/v0.1-prerelease/2022-09-05.zip)<br />
-[2022-09-06.zip](https://github.com/michigan-traffic-lab/RBTrajectoryDataReadme/releases/download/v0.1-prerelease/2022-09-06.zip)<br />
-[2022-09-07.zip](https://github.com/michigan-traffic-lab/RBTrajectoryDataReadme/releases/download/v0.1-prerelease/2022-09-07.zip)<br />
-[2022-09-08.zip](https://github.com/michigan-traffic-lab/RBTrajectoryDataReadme/releases/download/v0.1-prerelease/2022-09-08.zip)<br />
-[2022-09-09.zip](https://github.com/michigan-traffic-lab/RBTrajectoryDataReadme/releases/download/v0.1-prerelease/2022-09-09.zip)<br />
-[2022-09-10.zip](https://github.com/michigan-traffic-lab/RBTrajectoryDataReadme/releases/download/v0.1-prerelease/2022-09-10.zip)<br />
-[2022-09-11.zip](https://github.com/michigan-traffic-lab/RBTrajectoryDataReadme/releases/download/v0.1-prerelease/2022-09-11.zip)<br />
-[2022-09-12.zip](https://github.com/michigan-traffic-lab/RBTrajectoryDataReadme/releases/download/v0.1-prerelease/2022-09-12.zip)<br />
-[2022-09-13.zip](https://github.com/michigan-traffic-lab/RBTrajectoryDataReadme/releases/download/v0.1-prerelease/2022-09-13.zip)<br />
-[2022-09-14.zip](https://github.com/michigan-traffic-lab/RBTrajectoryDataReadme/releases/download/v0.1-prerelease/2022-09-14.zip)<br />
-[2022-09-15.zip](https://github.com/michigan-traffic-lab/RBTrajectoryDataReadme/releases/download/v0.1-prerelease/2022-09-15.zip)<br />
-[2022-09-16.zip](https://github.com/michigan-traffic-lab/RBTrajectoryDataReadme/releases/download/v0.1-prerelease/2022-09-16.zip)<br />
-[2022-09-17.zip](https://github.com/michigan-traffic-lab/RBTrajectoryDataReadme/releases/download/v0.1-prerelease/2022-09-17.zip)<br />
-[2022-09-18.zip](https://github.com/michigan-traffic-lab/RBTrajectoryDataReadme/releases/download/v0.1-prerelease/2022-09-18.zip)<br />
-[2022-09-19.zip](https://github.com/michigan-traffic-lab/RBTrajectoryDataReadme/releases/download/v0.1-prerelease/2022-09-19.zip)<br />
-[2022-09-20.zip](https://github.com/michigan-traffic-lab/RBTrajectoryDataReadme/releases/download/v0.1-prerelease/2022-09-20.zip)<br />
-[2022-09-21.zip](https://github.com/michigan-traffic-lab/RBTrajectoryDataReadme/releases/download/v0.1-prerelease/2022-09-21.zip)<br />
-[2022-09-27.zip](https://github.com/michigan-traffic-lab/RBTrajectoryDataReadme/releases/download/v0.1-prerelease/2022-09-27.zip)<br />
-[2022-09-28.zip](https://github.com/michigan-traffic-lab/RBTrajectoryDataReadme/releases/download/v0.1-prerelease/2022-09-28.zip)<br />
-[2022-09-29.zip](https://github.com/michigan-traffic-lab/RBTrajectoryDataReadme/releases/download/v0.1-prerelease/2022-09-29.zip)<br />
-[2022-09-30.zip](https://github.com/michigan-traffic-lab/RBTrajectoryDataReadme/releases/download/v0.1-prerelease/2022-09-30.zip)<br />
+[2022-09-01.zip](https://github.com/michigan-traffic-lab/RBTrajectoryData/releases/download/v0.1-prerelease/2022-09-01.zip)<br />
+[2022-09-02.zip](https://github.com/michigan-traffic-lab/RBTrajectoryData/releases/download/v0.1-prerelease/2022-09-02.zip)<br />
+[2022-09-03.zip](https://github.com/michigan-traffic-lab/RBTrajectoryData/releases/download/v0.1-prerelease/2022-09-03.zip)<br />
+[2022-09-04.zip](https://github.com/michigan-traffic-lab/RBTrajectoryData/releases/download/v0.1-prerelease/2022-09-04.zip)<br />
+[2022-09-05.zip](https://github.com/michigan-traffic-lab/RBTrajectoryData/releases/download/v0.1-prerelease/2022-09-05.zip)<br />
+[2022-09-06.zip](https://github.com/michigan-traffic-lab/RBTrajectoryData/releases/download/v0.1-prerelease/2022-09-06.zip)<br />
+[2022-09-07.zip](https://github.com/michigan-traffic-lab/RBTrajectoryData/releases/download/v0.1-prerelease/2022-09-07.zip)<br />
+[2022-09-08.zip](https://github.com/michigan-traffic-lab/RBTrajectoryData/releases/download/v0.1-prerelease/2022-09-08.zip)<br />
+[2022-09-09.zip](https://github.com/michigan-traffic-lab/RBTrajectoryData/releases/download/v0.1-prerelease/2022-09-09.zip)<br />
+[2022-09-10.zip](https://github.com/michigan-traffic-lab/RBTrajectoryData/releases/download/v0.1-prerelease/2022-09-10.zip)<br />
+[2022-09-11.zip](https://github.com/michigan-traffic-lab/RBTrajectoryData/releases/download/v0.1-prerelease/2022-09-11.zip)<br />
+[2022-09-12.zip](https://github.com/michigan-traffic-lab/RBTrajectoryData/releases/download/v0.1-prerelease/2022-09-12.zip)<br />
+[2022-09-13.zip](https://github.com/michigan-traffic-lab/RBTrajectoryData/releases/download/v0.1-prerelease/2022-09-13.zip)<br />
+[2022-09-14.zip](https://github.com/michigan-traffic-lab/RBTrajectoryData/releases/download/v0.1-prerelease/2022-09-14.zip)<br />
+[2022-09-15.zip](https://github.com/michigan-traffic-lab/RBTrajectoryData/releases/download/v0.1-prerelease/2022-09-15.zip)<br />
+[2022-09-16.zip](https://github.com/michigan-traffic-lab/RBTrajectoryData/releases/download/v0.1-prerelease/2022-09-16.zip)<br />
+[2022-09-17.zip](https://github.com/michigan-traffic-lab/RBTrajectoryData/releases/download/v0.1-prerelease/2022-09-17.zip)<br />
+[2022-09-18.zip](https://github.com/michigan-traffic-lab/RBTrajectoryData/releases/download/v0.1-prerelease/2022-09-18.zip)<br />
+[2022-09-19.zip](https://github.com/michigan-traffic-lab/RBTrajectoryData/releases/download/v0.1-prerelease/2022-09-19.zip)<br />
+[2022-09-20.zip](https://github.com/michigan-traffic-lab/RBTrajectoryData/releases/download/v0.1-prerelease/2022-09-20.zip)<br />
+[2022-09-21.zip](https://github.com/michigan-traffic-lab/RBTrajectoryData/releases/download/v0.1-prerelease/2022-09-21.zip)<br />
+[2022-09-27.zip](https://github.com/michigan-traffic-lab/RBTrajectoryData/releases/download/v0.1-prerelease/2022-09-27.zip)<br />
+[2022-09-28.zip](https://github.com/michigan-traffic-lab/RBTrajectoryData/releases/download/v0.1-prerelease/2022-09-28.zip)<br />
+[2022-09-29.zip](https://github.com/michigan-traffic-lab/RBTrajectoryData/releases/download/v0.1-prerelease/2022-09-29.zip)<br />
+[2022-09-30.zip](https://github.com/michigan-traffic-lab/RBTrajectoryData/releases/download/v0.1-prerelease/2022-09-30.zip)<br />
 
 ## Terms of use
 
