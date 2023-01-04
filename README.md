@@ -122,3 +122,7 @@ Each json file contains the vehicle trajectory data of one frame. Here is an exa
 ## Acknowledgment
 
 The dataset is supported by [Mcity](https://mcity.umich.edu/) and [National Science Foundation](https://www.nsf.gov/).
+
+## Contact
+
+Henry Liu - henryliu@umich.edu
