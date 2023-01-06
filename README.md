@@ -1,6 +1,6 @@
 # RBTrajectoryDataReadme
 
-## About the dataset
+## Introduction
 The dataset contains the vehicle trajectory data perceived by the roadside perception system deployed at the two-lane roundabout at the intersection of State St. and W. Ellsworth Rd. in Ann Arbor, Michigan.
 + The data was collected from 9am to 7pm in September 2022.
 + The data sample rate is 2.5Hz.
