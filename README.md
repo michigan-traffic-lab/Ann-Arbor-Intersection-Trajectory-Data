@@ -117,6 +117,7 @@ Each json file contains the vehicle trajectory data of one frame. Here is an exa
 
 ## Terms of use
 
+### Licenses
 Unless specifically labeled otherwise, these Datasets are provided to You under a Creative Commons Attribution-Sharealike 4.0 International Public License (“CC BY-SA 4.0”) The CC BY-SA 4.0 may be accessed at https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode. When You download or use the Datasets from the Website or elsewhere, You are agreeing to comply with the terms of CC BY-SA 4.0 and also agreeing to the Dataset Terms. Where these Dataset Terms conflict with the terms of CC BY-SA 4.0, these Dataset Terms shall prevail.
 
 ## Acknowledgment
