@@ -124,6 +124,10 @@ Unless specifically labeled otherwise, these Datasets are provided to You under 
 
 The dataset is supported by [Mcity](https://mcity.umich.edu/) and [National Science Foundation](https://www.nsf.gov/).
 
+## Developers
+
+Depu Meng - depum@umich.edu
+Rusheng Zhang - rushengz@umich.edu
 ## Contact
 
 Henry Liu - henryliu@umich.edu
