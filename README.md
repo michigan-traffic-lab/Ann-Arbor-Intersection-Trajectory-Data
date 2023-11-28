@@ -87,11 +87,14 @@ The dataset is supported by [Mcity](https://mcity.umich.edu/) and [National Scie
 
 ## Developers
 
-Depu Meng - depum@umich.edu
-Rusheng Zhang - rushengz@umich.edu
-Boqi Li - boqili@umich.edu
+Depu Meng (depum@umich.edu)
+
+Rusheng Zhang (rushengz@umich.edu)
+
+Boqi Li (boqili@umich.edu)
 
 ## Contact
 
-Henry Liu - henryliu@umich.edu
-Shengyin Shen - shengyin@umich.edu
+Henry Liu (henryliu@umich.edu)
+
+Sean Shen (shengyin@umich.edu)
