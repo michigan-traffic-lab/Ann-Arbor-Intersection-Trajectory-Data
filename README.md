@@ -1,10 +1,10 @@
 # Ann Arbor Intersection Trajectory Data
 
 ## Introduction
-The dataset contains the vehicle trajectory data perceived by the roadside perception system deployed in the City of Ann Arbor, Michigan, through the [Smart Intersections Project](https://sip.umtri.umich.edu/).
-+ The data was collected at the roundabout, signalized intersections, and pedestrian crossing midblock of City of Ann Arbor, Michigan.
+The dataset contains the road user trajectory data perceived by the roadside perception system deployed in the City of Ann Arbor, Michigan, through the [Smart Intersections Project](https://sip.umtri.umich.edu/).
++ The data was collected at the signalized intersections and pedestrian crossing midblocks of City of Ann Arbor, Michigan.
 + The data was collected from 9am to 6pm in the third quarter of 2023.
-+ Msight roadside perception system is used to extract the vehicle trajectories from raw video frames.
++ Msight roadside perception system is used to extract the road user trajectories from raw video frames.
 
 ## Citation
 > [Design, Implementation, and Evaluation of a Roadside Cooperative Perception System](https://drive.google.com/file/d/1lNYbGUzCMqt1zLPuyrfwM0NuiCS9hfpf/view)<br />
@@ -37,7 +37,7 @@ The dataset contains the vehicle trajectory data perceived by the roadside perce
 > }
 > ```
 ## Data format
-The dataset is formatted into multiple zip files. Each zip file contains the vehicle trajectory data within one day.
+The dataset is formatted into multiple zip files. Each zip file contains the road user trajectory data within one day.
 ```
 root/
   |-state_ellsworth/
@@ -60,16 +60,16 @@ Each zip file contains multiple json files.
   |-2023-07-08 09-00-29-252612.json
   ...
 ```
-Each json file contains the vehicle trajectory data of one frame. Here is an example of the data in a json file
+Each json file contains the road user trajectory data of one frame. Here is an example of the data in a json file
 ```
 [
   {
-    "id": "1",    # id of the vehicle (not universal unique id)
+    "id": "1",    # id of the road user (not universal unique id)
     "confidence": 0.849,    # confidence of the vehicle detection
-    "lat": 42.301,    # the latitude coordinate of the vehicle position
-    "lon": -83.698,   # the longitude coordinate of the vehicle position
-    "category": 0.0,      # the category of the vehicle (0: cars, 1: truck/bus/trailer)
-    "speed": 1.536,      # the speed of the vehicle (m/s)
+    "lat": 42.301,    # the latitude coordinate of the road user position
+    "lon": -83.698,   # the longitude coordinate of the road user position
+    "category": 0.0,      # the category of the vehicle (0: cars, 1: truck, 2: bus, 3: trailer, 4: motorcyclist/bicyclist, 5: pedestrian, 6: van, 7: pickup)
+    "speed": 1.536,      # the speed of the road user (m/s)
     "speed_heading": -1.741,      # the heading of the vehicle (north: 0, clock-wise)
       }
 ```
