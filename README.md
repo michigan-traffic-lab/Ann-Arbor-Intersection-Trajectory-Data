@@ -1,7 +1,7 @@
 # Ann Arbor Intersection Trajectory Data
 
 ## Introduction
-The dataset contains the vehicle trajectory data perceived by the roadside perception system deployed in the City of Ann Arbor, Michigan, through the [Smart Intersections Project].(https://mcity.umich.edu/](https://sip.umtri.umich.edu/)
+The dataset contains the vehicle trajectory data perceived by the roadside perception system deployed in the City of Ann Arbor, Michigan, through the [Smart Intersections Project](https://mcity.umich.edu/](https://sip.umtri.umich.edu/).
 + The data was collected at the roundabout, signalized intersections, and pedestrian crossing midblock of City of Ann Arbor, Michigan.
 + The data was collected from 9am to 6pm in the third quarter of 2023.
 + Msight roadside perception system is used to extract the vehicle trajectories from raw video frames.
