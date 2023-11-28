@@ -1,9 +1,9 @@
-# RBTrajectoryDataReadme
+# Ann Arbor Intersection Trajectory Data
 
 ## Introduction
-The dataset contains the vehicle trajectory data perceived by the roadside perception system deployed at the two-lane roundabout at the intersection of State St. and W. Ellsworth Rd. in Ann Arbor, Michigan.
-+ The data was collected from 9am to 7pm in September 2022.
-+ The data sample rate is 2.5Hz.
+The dataset contains the vehicle trajectory data perceived by the roadside perception system deployed at the intersections of City of Ann Arbor, Michigan.
++ The data was collected at the State St. and W. Ellsworth Rd. roundabout and the Main St. and Stadium Blvd. intersection.
++ The data was collected from 9am to 6pm in the third quarter of 2023.
 + Msight roadside perception system is used to extract the vehicle trajectories from raw video frames.
 
 ## Citation
@@ -40,17 +40,24 @@ The dataset contains the vehicle trajectory data perceived by the roadside perce
 The dataset is formatted into multiple zip files. Each zip file contains the vehicle trajectory data within one day.
 ```
 root/
-  |-2022-09-01.zip
-  |-2022-09-02.zip
-  ...
-  `-2022-09-30.zip
+  |-state_ellsworth/
+  | |-2023-07-08.zip
+  | |-2023-07-09.zip
+  | ...
+  | `-2023-07-14.zip
+  |
+  `-main_stadium/
+    |-2023-09-24.zip
+    |-2023-09-25.zip
+    ...
+    `-2023-09-30.zip
 ```
 Each zip file contains multiple json files. 
 ```
-2022-09-01.zip
-  |-2022-09-01 09-00-28-452291.json
-  |-2022-09-01 09-00-28-841508.json
-  |-2022-09-01 09-00-29-252612.json
+2023-07-08.zip
+  |-2023-07-08 09-00-28-452291.json
+  |-2023-07-08 09-00-28-841508.json
+  |-2023-07-08 09-00-29-252612.json
   ...
 ```
 Each json file contains the vehicle trajectory data of one frame. Here is an example of the data in a json file
@@ -61,59 +68,13 @@ Each json file contains the vehicle trajectory data of one frame. Here is an exa
     "confidence": 0.849,    # confidence of the vehicle detection
     "lat": 42.301,    # the latitude coordinate of the vehicle position
     "lon": -83.698,   # the longitude coordinate of the vehicle position
-    "uuid": "d3175b38-4e73-42f9-abb3-564b05788e90",       # the universal unique id of the vehicle
     "category": 0.0,      # the category of the vehicle (0: cars, 1: truck/bus/trailer)
     "speed": 1.536,      # the speed of the vehicle (m/s)
     "speed_heading": -1.741,      # the heading of the vehicle (north: 0, clock-wise)
-    "predicted_future":     # predicted future vehicle position at the next six frames by our trajectory prediction model
-      {
-        "mean":     # the mean of the predicted future vehicle position
-          [
-            [42.22948273444069, -83.73878684072021], 
-            [42.22951917166349, -83.73882189902272], 
-            [42.22955463092418, -83.73885653671525], 
-            [42.22959806281623, -83.73889505995245], 
-            [42.229641211286584, -83.73891961750685], 
-            [42.229683881407645, -83.73894786679861]
-          ], 
-        "std":     # the variance of the predicted future vehicle position
-          [
-            [0.0, 0.0], 
-            [3.3877596180390264e-06, 5.4456512171775565e-06], 
-            [3.7547065911662862e-06, 5.874294391702309e-06], 
-            [4.419491663688003e-06, 6.963602536202044e-06], 
-            [5.08341492670003e-06, 8.755623608381619e-06], 
-            [6.052037926312747e-06, 1.0661085971328865e-05]
-          ]
       }
 ```
 
 ## Download
-[2022-09-01.zip](https://github.com/michigan-traffic-lab/RBTrajectoryData/releases/download/v0.1-prerelease/2022-09-01.zip)<br />
-[2022-09-02.zip](https://github.com/michigan-traffic-lab/RBTrajectoryData/releases/download/v0.1-prerelease/2022-09-02.zip)<br />
-[2022-09-03.zip](https://github.com/michigan-traffic-lab/RBTrajectoryData/releases/download/v0.1-prerelease/2022-09-03.zip)<br />
-[2022-09-04.zip](https://github.com/michigan-traffic-lab/RBTrajectoryData/releases/download/v0.1-prerelease/2022-09-04.zip)<br />
-[2022-09-05.zip](https://github.com/michigan-traffic-lab/RBTrajectoryData/releases/download/v0.1-prerelease/2022-09-05.zip)<br />
-[2022-09-06.zip](https://github.com/michigan-traffic-lab/RBTrajectoryData/releases/download/v0.1-prerelease/2022-09-06.zip)<br />
-[2022-09-07.zip](https://github.com/michigan-traffic-lab/RBTrajectoryData/releases/download/v0.1-prerelease/2022-09-07.zip)<br />
-[2022-09-08.zip](https://github.com/michigan-traffic-lab/RBTrajectoryData/releases/download/v0.1-prerelease/2022-09-08.zip)<br />
-[2022-09-09.zip](https://github.com/michigan-traffic-lab/RBTrajectoryData/releases/download/v0.1-prerelease/2022-09-09.zip)<br />
-[2022-09-10.zip](https://github.com/michigan-traffic-lab/RBTrajectoryData/releases/download/v0.1-prerelease/2022-09-10.zip)<br />
-[2022-09-11.zip](https://github.com/michigan-traffic-lab/RBTrajectoryData/releases/download/v0.1-prerelease/2022-09-11.zip)<br />
-[2022-09-12.zip](https://github.com/michigan-traffic-lab/RBTrajectoryData/releases/download/v0.1-prerelease/2022-09-12.zip)<br />
-[2022-09-13.zip](https://github.com/michigan-traffic-lab/RBTrajectoryData/releases/download/v0.1-prerelease/2022-09-13.zip)<br />
-[2022-09-14.zip](https://github.com/michigan-traffic-lab/RBTrajectoryData/releases/download/v0.1-prerelease/2022-09-14.zip)<br />
-[2022-09-15.zip](https://github.com/michigan-traffic-lab/RBTrajectoryData/releases/download/v0.1-prerelease/2022-09-15.zip)<br />
-[2022-09-16.zip](https://github.com/michigan-traffic-lab/RBTrajectoryData/releases/download/v0.1-prerelease/2022-09-16.zip)<br />
-[2022-09-17.zip](https://github.com/michigan-traffic-lab/RBTrajectoryData/releases/download/v0.1-prerelease/2022-09-17.zip)<br />
-[2022-09-18.zip](https://github.com/michigan-traffic-lab/RBTrajectoryData/releases/download/v0.1-prerelease/2022-09-18.zip)<br />
-[2022-09-19.zip](https://github.com/michigan-traffic-lab/RBTrajectoryData/releases/download/v0.1-prerelease/2022-09-19.zip)<br />
-[2022-09-20.zip](https://github.com/michigan-traffic-lab/RBTrajectoryData/releases/download/v0.1-prerelease/2022-09-20.zip)<br />
-[2022-09-21.zip](https://github.com/michigan-traffic-lab/RBTrajectoryData/releases/download/v0.1-prerelease/2022-09-21.zip)<br />
-[2022-09-27.zip](https://github.com/michigan-traffic-lab/RBTrajectoryData/releases/download/v0.1-prerelease/2022-09-27.zip)<br />
-[2022-09-28.zip](https://github.com/michigan-traffic-lab/RBTrajectoryData/releases/download/v0.1-prerelease/2022-09-28.zip)<br />
-[2022-09-29.zip](https://github.com/michigan-traffic-lab/RBTrajectoryData/releases/download/v0.1-prerelease/2022-09-29.zip)<br />
-[2022-09-30.zip](https://github.com/michigan-traffic-lab/RBTrajectoryData/releases/download/v0.1-prerelease/2022-09-30.zip)<br />
 
 ## Terms of use
 
@@ -128,6 +89,9 @@ The dataset is supported by [Mcity](https://mcity.umich.edu/) and [National Scie
 
 Depu Meng - depum@umich.edu
 Rusheng Zhang - rushengz@umich.edu
+Boqi Li - boqili@umich.edu
+
 ## Contact
 
 Henry Liu - henryliu@umich.edu
+Shengyin Shen - shengyin@umich.edu
