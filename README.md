@@ -75,6 +75,9 @@ Each json file contains the vehicle trajectory data of one frame. Here is an exa
 ```
 
 ## Download
+[State and Ellsworth Roundabout](https://sip-aa-data.s3.us-east-2.amazonaws.com/Ann-Arbor-Intersection-Trajectory-Data/state+%26+ellsworth.zip)
+
+[Main and Stadium Intersection](https://sip-aa-data.s3.us-east-2.amazonaws.com/Ann-Arbor-Intersection-Trajectory-Data/main+%26+stadium.zip)
 
 ## Terms of use
 
