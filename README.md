@@ -75,9 +75,9 @@ Each json file contains the road user trajectory data of one frame. Here is an e
 ```
 
 ## Download
-[State and Ellsworth Roundabout](https://sip-aa-data.s3.us-east-2.amazonaws.com/Ann-Arbor-Intersection-Trajectory-Data/state+%26+ellsworth.zip)
+[State and Ellsworth Roundabout](https://sip-aa-data.s3.us-east-2.amazonaws.com/Ann-Arbor-Intersection-Trajectory-Data/state+%26+ellsworth+v2.zip)
 
-[Main and Stadium Intersection](https://sip-aa-data.s3.us-east-2.amazonaws.com/Ann-Arbor-Intersection-Trajectory-Data/main+%26+stadium.zip)
+[Main and Stadium Intersection](https://sip-aa-data.s3.us-east-2.amazonaws.com/Ann-Arbor-Intersection-Trajectory-Data/main+%26+stadium+v2.zip)
 
 ## Terms of use
 
